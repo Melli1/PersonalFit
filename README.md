@@ -1,2 +1,0 @@
-# PersonalFit
-Bachelor Project
